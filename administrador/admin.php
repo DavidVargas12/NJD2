@@ -24,6 +24,9 @@
 		<div class="cuadro2">
 			<button class="positionbutton2"><a href="users.php"><p class="txtbtn">Usuarios</p></a></button>
 		</div>
+            <div class="cuadro2">
+			<button class="positionbutton2"><a href="reservaciones.php"><p class="txtbtn">Reservaciones</p></a></button>
+		</div>
 	</div>
 
 
