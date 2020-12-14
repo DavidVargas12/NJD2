@@ -1,0 +1,28 @@
+img{
+	width: 180px;
+	height: 140px;
+}
+
+#mostrar {
+	width: 22%;
+	background-color: #EEEDED;
+	border-radius: 4px 4px 4px;
+	color: #333;
+	padding: 0.5em;
+}
+
+.result-line {
+	text-align: center;
+	padding: 1em;
+}
+
+.result-line:hover {
+	cursor: pointer;
+	text-align: center;
+	background-color: #F9CAFF;
+}
+
+.result-line a:hover {
+	text-decoration: none;
+	color: #B530C4;
+}

@@ -1,0 +1,56 @@
+
+
+.panelSuperior {
+	width: 100%;
+	height: 8em;
+	background-color: #E2E2E2;
+	text-align: center;
+	color: #333;
+	opacity: 0.9;
+	margin-bottom: 3em;
+}
+
+.panelSuperior h2{
+	padding-top: 1em;
+}
+
+.panelLog {
+	background-image: url('../imagenes/f2.jpg');
+	background-repeat: no-repeat;
+	padding-top: 3em;
+	margin: auto;
+	width: 100%;
+	height: 72em;
+	margin-bottom: 3em;
+
+
+}
+
+.boxLog {
+	box-shadow: 1px 2px 1px 1px #888888;
+	background: linear-gradient(#EAEAEA, #EAEAEA,#747474 );
+	opacity: 0.95;
+	padding: 1em;
+	border-radius: 10px 10px 10px 10px;
+	margin: auto;
+	width: 50%;
+	height: 35em;
+	background-color: #E2E2E2;
+}
+
+
+.login {
+	margin: auto;
+	color: #333;
+}
+.login:hover {
+	text-decoration: none;
+	color: white;
+
+}
+
+.error {
+	color: red;
+	display: none;
+}
+

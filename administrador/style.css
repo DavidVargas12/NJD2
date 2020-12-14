@@ -1,0 +1,67 @@
+.barra {
+	text-align: center;
+	width: 100%;
+	height: 100px;
+	background-color: #333;
+	color: white;
+}
+
+.cuadros {
+	width: 50%;
+	height: 300px;
+	margin: auto;
+	background-color: #4B515D;
+}
+
+.cuadro1 {
+	width: 50%;
+	height: 300px;
+	background-image: url('img/clothes.jpg');
+	background-repeat: no-repeat;
+	float: left;
+}
+
+.cuadro2 {
+	width: 50%;
+	height: 300px;
+	background-image: url('img/users.jpg');
+	background-repeat: no-repeat;
+	background-color: yellow;
+	float: left;
+}
+
+.positionbutton1 {
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	background-color: #aa66cc;
+}
+
+.positionbutton2 {
+	text-align: center;
+	width: 100%;
+	height: 50px;
+	background-color: #4285F4;
+}
+
+.txtbtn {
+	color: white;
+	text-shadow: 2px 2px 2px #000000;
+	font-size: 20px;
+}
+
+/* HOVERS DE LOS CUADROS */
+.cuadro1:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+.cuadro2:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+a:link {
+	text-decoration: none;
+}
+
