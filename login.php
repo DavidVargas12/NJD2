@@ -47,7 +47,7 @@
 			</form>
 			<a href="registro.php"><button class="btn btn-warning registro">¿No tienes cuenta?</button></a>
             
-            <a href="inicio.php" class="login">Volver</a>
+                        <a href="inicio.php" class="login">Volver</a>
 		</div>
 	</div>
 

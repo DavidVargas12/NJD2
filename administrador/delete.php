@@ -42,7 +42,7 @@ mysqli_close($conexion);
 <body>
 	<h2 class="titulo">Has eliminado el producto con exito, a continuación serás redirigida a la pagina principal.
 		<br>
-		<b><a href="http://localhost:8888/tiendaropa/administrador/clothes.php">Volver</a></b></h2>
+                <b><a href="clothes.php">Volver</a></b></h2>
 
 </body>
 </html>

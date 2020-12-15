@@ -18,13 +18,13 @@
 	<br>
 	<div class="cuadros">
 		<div class="cuadro1">
-			<button class="positionbutton1"><a href="clothes.php"><p class="txtbtn">Productos</p></a></button>
+			<button class="positionbutton1"><a href="tienda.php"><p class="txtbtn">Productos</p></a></button>
 		</div>
         
 		<div class="cuadro2">
-			<button class="positionbutton2"><a href="users.php"><p class="txtbtn">Usuarios</p></a></button>
+			<button class="positionbutton2"><a href=""><p class="txtbtn">Usuarios</p></a></button>
 		</div>
-            <div class="cuadro2">
+            <div class="cuadro3">
 			<button class="positionbutton2"><a href="reservaciones.php"><p class="txtbtn">Reservaciones</p></a></button>
 		</div>
 	</div>

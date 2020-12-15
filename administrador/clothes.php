@@ -24,7 +24,7 @@
 	<link rel="stylesheet" type="text/css" href="clothes_style.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<title>Ropa</title>
+	<title></title>
 		<script>
 		
 		function check(value){
@@ -76,7 +76,7 @@
 			<br>
 			<br>
 					<div class="addPanel">
-						<h3>Pulsa aquí para añadir un articulo &nbsp<a href="add.php" class="btn btn-info btn-lg">Añadir</a></h3>
+						<h3>Pulsa aquí para añadir un articulo <a href="add.php" class="btn btn-info btn-lg">Añadir</a></h3>
 					</div>
 					  <table class="table table-striped">
 					    <thead>

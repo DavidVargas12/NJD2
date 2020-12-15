@@ -57,8 +57,8 @@ mysqli_close($conexion);
 		<ul>
 			<li><a href="inicio.php">Inicio</a></li>
 			<li class="active"><a href="tienda.php">Menu</a></li>
-			<li><a href="#">Servicios</a></li>
-			<li><a href="contacto.php">Contáctanos</a></li>
+                        <li><a href="Reservaciones.php>Reserva</a></li>
+			<li><a href="contacto.php>Contáctanos</a></li>
 		</ul>
 	</nav>
 

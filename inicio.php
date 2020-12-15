@@ -18,8 +18,6 @@
             <nav class="navResponsive">
                 <ul>
                     <li class="active"><a href="inicio.php">Inicio</a></li>
-                    <li><a href="tienda.php">Menu</a></li>
-                    <li><a href="login.php">Reservacion</a></li>
                     <li><a href="contacto.php">Contáctanos</a></li>
                 </ul>
                 <ul class="account">
@@ -33,8 +31,6 @@
             <h3 class="titulo">NJD2 System</h3>
             <ul>
                 <li class="active"><a href="inicio.php">Inicio</a></li>
-                <li><a href="tienda.php">Menu</a></li>
-                <li><a href="Reservaciones.php">Reservacion</a></li>
                 <li><a href="contacto.php">Contáctanos</a></li>
             </ul>
             <ul class="account">

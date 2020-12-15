@@ -38,7 +38,7 @@ $stmt->execute();
 	if ($esLoginCorrecto) {
 		session_start();
 		$_SESSION['email'] = $email;
-		header('Location: tienda.php');
+		header('Location: inicio2.php');
 		exit();
 	} else {
 		header('Location: login.php');

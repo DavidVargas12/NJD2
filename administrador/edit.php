@@ -14,7 +14,7 @@ $conexion->set_charset('utf8');
 
 
 /* @var $GET type */
-$idProducto = $GET['id'];
+$idProducto = $GET['idproducto'];
 $edit = "SELECT * FROM productos WHERE id_producto ='$idProducto'";
 
 
@@ -34,8 +34,9 @@ mysqli_close($conexion);
         <title>Editar</title>
         <style>
             body {
-                background-image: url('img/edit.jpg');
+                background-image: url();
                 background-repeat: no-repeat;
+               
             }
 
             .titulo {
@@ -45,7 +46,7 @@ mysqli_close($conexion);
 
             .panel{
                 width: 100%;
-                height: 26%;
+                height: 20%;
                 background-color: #212121;
                 color: white;
             }
